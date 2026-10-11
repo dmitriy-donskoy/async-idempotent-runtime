@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "MIT"}
 authors = [
-    {name = "Dmitriy Donskoy", email = "donskoy796@gmail.com"}
+    {name = "Dmytro Donskyi", email = "donskoy796@gmail.com"}
 ]
 keywords = ["asyncio", "idempotency", "financial-engineering", "rate-limiting", "retry-backoff"]
 classifiers = [

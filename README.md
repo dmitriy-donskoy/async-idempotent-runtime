@@ -64,4 +64,4 @@ pytest tests -v
 
 ## 📄 License
 
-MIT License. Authored by **Dmitriy Donskoy**.
+MIT License. Authored by **Dmytro Donskyi**.
